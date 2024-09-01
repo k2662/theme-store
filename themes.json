@@ -366,5 +366,17 @@
         "version": "1.0.0",
         "isDarkMode": true,
         "isColorTheme": true
+    },
+    "themes/89a78af0-e3fb-466a-94b3-64bb207333fc": {
+        "id": "89a78af0-e3fb-466a-94b3-64bb207333fc",
+        "name": "Rosé Pine Moon",
+        "description": "Soho vibes for zen browser",
+        "homepage": "",
+        "style": "https://raw.githubusercontent.com/k2662/theme-store/main/themes/89a78af0-e3fb-466a-94b3-64bb207333fc/chrome.css",
+        "readme": "https://raw.githubusercontent.com/k2662/theme-store/main/themes/89a78af0-e3fb-466a-94b3-64bb207333fc/readme.md",
+        "image": "https://raw.githubusercontent.com/k2662/theme-store/main/themes/89a78af0-e3fb-466a-94b3-64bb207333fc/image.png",
+        "author": "k2662",
+        "version": "1.0.0",
+        "isDarkMode": true,
     }
 }
